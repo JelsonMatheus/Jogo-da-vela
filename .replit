@@ -1,0 +1,2 @@
+language = "c"
+run = "clang-7 -o build/jogoDaVelha.exe src/main.c src/tabuleiro.c"
