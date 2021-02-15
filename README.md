@@ -1,3 +1,4 @@
 # Jogo-da-velha
-Jogo da velha em C, para dois jogadores.
 ![](20210203_142528.jpg)
+
+Jogo da velha em C para 2 jogadores.
